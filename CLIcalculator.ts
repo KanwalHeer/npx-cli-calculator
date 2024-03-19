@@ -1,4 +1,4 @@
-#!user/bin/env/node
+#! /user/bin/env/node
 
 import inquirer from "inquirer"
 
